@@ -4,6 +4,17 @@
   z-index: 999;
 }
 
+.modal-backdrop {
+  background: #9898984a !important;
+  -webkit-backdrop-filter: blur(3.3em);
+  backdrop-filter: blur(3.3em);
+  background-blend-mode: overlay;
+}
+
+.btn-social.patreon {
+  background-color: #ffffff;
+}
+
 .discourse-signup-banner {
   background-color: var(--secondary);
   width: 70%;
