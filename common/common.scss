@@ -4,7 +4,8 @@
   z-index: 999;
 }
 
-.btn-social.patreon, .btn-social.twitter {
+.btn-social.patreon, .btn-social.twitter,
+#discourse-modal.gate #login-buttons .btn-social {
   background-color: #ffffff;
 }
 
